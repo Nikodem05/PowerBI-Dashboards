@@ -30,7 +30,7 @@ This dashboard tracks sales performance with multiple slicers.
 <img width="1425" height="799" alt="image" src="https://github.com/user-attachments/assets/500349ec-bf80-4434-8746-d81d06e1aecd" />
 
 ### Download
-[Sales Analysis.pbix](files/Sales Report 2.pbix)
+[Sales Analysis.pbix](files/Sales_Report_2.pbix)
 
 ---
 
@@ -48,6 +48,6 @@ HR analytics dashboard showing salary rates by countries and job role.
 <img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/291c4244-48b7-4871-8bc7-68279995b83b" />
 
 ### Download
-[HR Report.pbix](files/Job Report.pbix)
+[HR Report.pbix](files/Job_Report.pbix)
 
 ---

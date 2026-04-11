@@ -1,9 +1,3 @@
-
-<img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/b8a4d4e6-6910-417c-ac7a-e512a322c43e" />
-<img width="1425" height="799" alt="image" src="https://github.com/user-attachments/assets/500349ec-bf80-4434-8746-d81d06e1aecd" />
-<img width="1310" height="733" alt="image" src="https://github.com/user-attachments/assets/291c4244-48b7-4871-8bc7-68279995b83b" />
-
-
 # 📊 My Power BI Reports Portfolio
 
 ## Report 1: Sales Performance Dashboard

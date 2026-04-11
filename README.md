@@ -11,6 +11,7 @@ This dashboard tracks sales performance across regions, products, and time perio
 
 ### Screenshot
 <img width="1426" height="798" alt="image" src="https://github.com/user-attachments/assets/b8a4d4e6-6910-417c-ac7a-e512a322c43e" />
+<img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/b4a17097-a500-421f-aebc-a395875d45b5" />
 
 ### Download
 [Sales Dashboard.pbix](files/Sales_Report.pbix)
